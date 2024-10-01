@@ -1,0 +1,1 @@
+The aim of this project is to develop an automated system using Python and OpenCV to determine the number of available parking slots in a car park. The system utilizes computer vision techniques to analyze real-time video footage captured by CCTV cameras installed in the parking area.
